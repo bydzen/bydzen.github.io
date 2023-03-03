@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow /asset/pdf
+
+Sitemap: https://sultankautsar.com/sitemap.xml
